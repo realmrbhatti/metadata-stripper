@@ -1,0 +1,7 @@
+pillow
+pypdf2
+mutagen
+python-docx
+tinytag
+pymediainfo
+pyyaml
