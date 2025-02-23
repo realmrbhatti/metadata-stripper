@@ -30,6 +30,10 @@ Video: MP4, AVI, MKV
  
  cd metadata-stripper
 
+### Activate the Virtual Environment
+source venv/bin/activate
+
+
 ##  2️⃣ Install Dependencies
 
 Make sure you have Python 3 installed then execute the following command:
